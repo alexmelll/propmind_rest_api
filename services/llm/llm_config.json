@@ -1,0 +1,6 @@
+{
+  "model": "qwen3-8b",
+  "temperature": 0.2,
+  "top_p": 0.9,
+  "stream": true
+}
